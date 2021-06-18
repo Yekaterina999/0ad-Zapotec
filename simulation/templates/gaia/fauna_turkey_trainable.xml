@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="gaia/fauna_turkey">
+  <Cost>
+    <BuildTime>22</BuildTime>
+    <Resources>
+      <food>25</food>
+    </Resources>
+  </Cost>
+  <UnitAI>
+    <DefaultStance>passive</DefaultStance>
+  </UnitAI>
+  <Visibility>
+    <RetainInFog>false</RetainInFog>
+  </Visibility>
+</Entity>
