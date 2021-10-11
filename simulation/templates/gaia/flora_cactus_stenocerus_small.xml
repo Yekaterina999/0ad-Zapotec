@@ -7,9 +7,8 @@
   <Identity>
     <SpecificName>Stenocerus Dumortieri</SpecificName>
   </Identity>
-  <ResourceSupply>
-    <Amount>50</Amount>
-    <Type>wood.tree</Type>
+   <ResourceSupply>
+    <Max>80</Max>
   </ResourceSupply>
   <VisualActor>
     <Actor>flora/trees/cactus_stenocerus_small.xml</Actor>

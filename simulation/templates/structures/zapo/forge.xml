@@ -31,7 +31,13 @@
      zapotecs/soldier_resistance_hack_zapo_01
      zapotecs/soldier_resistance_hack_zapo_02
      zapotecs/soldier_resistance_pierce_zapo_01
-     zapotecs/soldier_resistance_pierce_zapo_02
+     zapotecs/soldier_resistance_pierce_zapo_02      
+      -soldier_attack_melee_03
+      -soldier_attack_melee_03_variant
+      -soldier_attack_ranged_03
+      -soldier_resistance_hack_03
+      -soldier_resistance_pierce_03
+      archer_attack_spread
     </Technologies>
   </ProductionQueue>
   <VisualActor>
