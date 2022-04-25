@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity>
+  <Builder>
+    <Entities datatype="tokens">
+      structures/{civ}/temple_of_conquest
+      structures/{civ}/ball_court
+    </Entities>
+  </Builder>
+  <Identity>
+    <Civ>zapo</Civ>
+  </Identity>
+</Entity>

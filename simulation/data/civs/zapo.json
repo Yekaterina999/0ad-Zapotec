@@ -1,16 +1,11 @@
 ﻿{
 	"Code": "zapo",
-	"Culture": "zapo",
-	"Name": "Zapotecs",
-	"Emblem": "session/portraits/emblems/emblem_zapotecs.png",
-	"History": "The Zapotec civilization was an indigenous pre-Columbian civilization that flourished in the Valley of Oaxaca in Mesoamerica.",
+	"Culture": "zapotec",
 	"Music":[
 			{ "File": "Old New World.ogg", "Type": "peace" },
 			{ "File": "Cloud_People.ogg", "Type": "peace" },
 			{ "File": "Tradition.ogg", "Type": "peace" }
 		],
-	"Factions":
-	[],
 	"CivBonuses":
 	[
 		{
@@ -21,18 +16,6 @@
 	],
 	"TeamBonuses":
 	[],
-	"Structures":
-	[
-		{
-			"Name": "Ball Court",
-			"Class": "SB",
-			"Emblem": "",
-			"History": ".",
-			"Requirements": ".",
-			"Phase": "City",
-			"Special": "."
-		}
-	],
 	"WallSets":
 	[
 		"other/wallset_palisade",
@@ -55,19 +38,6 @@
 			"Template": "units/zapo/infantry_javelineer_b",
 			"Count": 3
 		}
-	],
-	"Formations":
-	[
-		"special/formations/null",
-		"special/formations/box",
-		"special/formations/column_closed",
-		"special/formations/line_closed",
-		"special/formations/column_open",
-		"special/formations/line_open",
-		"special/formations/flank",
-		"special/formations/skirmish",
-		"special/formations/wedge",
-		"special/formations/battle_line"
 	],
 	"AINames":
 	[

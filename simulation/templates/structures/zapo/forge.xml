@@ -14,7 +14,7 @@
   <Obstruction>
     <Static width="24.0" depth="24.0"/>
   </Obstruction>
-    <ProductionQueue>
+  <Researcher>
     <Technologies datatype="tokens">
       -soldier_attack_melee_01
       -soldier_attack_melee_02
@@ -39,7 +39,7 @@
       -soldier_resistance_pierce_03
       archer_attack_spread
     </Technologies>
-  </ProductionQueue>
+  </Researcher>
   <VisualActor>
     <Actor>structures/zapotecs/blacksmith.xml</Actor>
   </VisualActor>

@@ -4,6 +4,6 @@
 	"label": "0ad-Zapotec",
 	"url": "https://github.com/Yekaterina999/0ad-Zapotec",
 	"description": "0 A.D.",
-	"dependencies": ["0ad=0.0.25"],
+	"dependencies": ["0ad=0.0.26"],
 	"type": ["Factions"]
 }
